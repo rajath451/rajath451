@@ -7,7 +7,7 @@ I love building clean full-stack applications, diving deep into data, and explor
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, JavaScript (ES6+), SQL, HTML/CSS
+- **Languages:** Python,GO, JavaScript (ES6+), SQL, HTML/CSS
 - **Full-Stack Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Data Science & Analytics:** Pandas, Data Analysis, DBMS (PostgreSQL)
 - **DevOps & Tools:** Git, GitHub Workflows, Google Cloud Platform (GCP)
